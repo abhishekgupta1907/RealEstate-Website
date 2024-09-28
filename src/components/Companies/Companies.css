@@ -1,7 +1,7 @@
-.c-wrapper {
+.c-container {
     justify-content: space-around;
     gap: 1rem;
 }
-.c-wrapper img {
+.c-container > img {
     width: 9rem;
 }

@@ -10,11 +10,7 @@
     position: absolute;
     width: 20rem;
     height: 20rem;
-    background: linear-gradient(
-        180deg,
-        rgba(255, 255, 255, 0) 0%,
-        #ffffff 100%
-    );
+    background: rgba(255, 255, 255, 0.522);
     filter: blur(100px);
-    border-radius: 50%;
+    border-radius: 100px;
 }
